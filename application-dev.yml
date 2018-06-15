@@ -1,12 +1,12 @@
 #加密配置
 jasypt:
   encryptor:
-    password: lengleng
+    password: fujisoft
 
 spring:
   redis:
     remote: true        #是否是cachecloud 获取
-    host: 106.14.69.75
+    host: 172.29.144.15
     port: 6381
     password:
   http:
